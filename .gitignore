@@ -1,6 +1,9 @@
 *.pyc
 *.retry
 
+# ignore my files
+*.my
+
 # ignore virtual environments
 /.tox/
 /.venv/
